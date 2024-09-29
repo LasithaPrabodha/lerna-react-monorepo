@@ -2,9 +2,8 @@
   "name": "@app-dash/api",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
-  "typings": "app-dash-api.d.ts",
+  "main": "dist/index",
+  "types": "dist/index",
   "files": [
     "dist"
   ],

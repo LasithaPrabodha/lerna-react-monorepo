@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "build": "lerna run build",
-    "start": "lerna run start --stream"
+    "start": "lerna exec --scope @app-dash/my-app -- yarn start"
   },
   "dependencies": {},
   "devDependencies": {
